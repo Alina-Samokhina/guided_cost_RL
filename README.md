@@ -1,4 +1,4 @@
-# guided_cost_RL
+# Guided Cost Learning
 
 Course project for "Advanced topics in RL" by DeepPavlov.
 
